@@ -68,7 +68,7 @@ void test_medir_stack_asm(uint64_t niveles) {
 	printf("[ASM] La altura del stack es %lld\n", medir_stack_asm());
 }
 
-int main() {
+int main_en_c() {
 	/*
 	 * Salida esperada:
 	 *
