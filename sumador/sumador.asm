@@ -10,4 +10,4 @@ _start:
     call print_uint64
 
     mov	eax, 1	    
-	int	0x80 
+    int	0x80 
